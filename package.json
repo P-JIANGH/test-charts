@@ -1,0 +1,22 @@
+{
+  "name": "test-charts",
+  "version": "1.0.0",
+  "description": "install bizcharts to test lineChart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P-JIANGH/test-charts.git"
+  },
+  "keywords": [
+    "bizcharts"
+  ],
+  "author": "HJiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P-JIANGH/test-charts/issues"
+  },
+  "homepage": "https://github.com/P-JIANGH/test-charts#readme"
+}
